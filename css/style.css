@@ -5,6 +5,7 @@
 body{
     background-color: rgba(220, 215, 201, 1);
     font-family: "Baloo Bhaijaan 2", sans-serif;
+    font-weight: 400;
 }
 
 .navbar-nav{
@@ -98,6 +99,7 @@ body{
 .mini-container{
     margin: auto;
     width: 50%;
+    font-weight: 400;
 }
 
 h4{
@@ -132,4 +134,15 @@ h5{
     border-color: rgba(63, 79, 68, 1);
     background-color: rgba(63, 79, 68, 1);
     width: 220px;
+}
+
+.terkoz{
+    background-image: url(../img/home-bg-img-2-notfinal.png);
+    background-position: center center;
+    background-size: cover;
+}
+
+/* VÉGONYRA CSINÁLJA A SZÖVEGET */
+.font-light{
+    font-weight: 400;
 }
