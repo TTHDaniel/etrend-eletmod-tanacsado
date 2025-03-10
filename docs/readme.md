@@ -4,10 +4,13 @@
 - Projektfelelős: Tóth Dániel
 - Tagok: Popány Dávid, Vincze Balázs
 
-### Források
+### Források és szerkesztésre használt programok
 
-- Pixabay
-- Unsplash
-- LogoMaker
-- Képszerkesztés: Inpaint, Pixelcut
-- AiEase.ai
+- Pixabay (Képek)
+- Unsplash (Képek)
+- LogoMaker (Logó)
+- Inpaint (Képszerkesztés)
+- Pixelcut (Képszerkesztés)
+- AiEase.ai (Képszerkesztés)
+- Photoshop (Képszerkesztés)
+- ChatGPT (Szövegek)
