@@ -4,9 +4,6 @@
 - Projektfelelős: Tóth Dániel
 - Tagok: Popány Dávid, Vincze Balázs
 
-### Hivatkozások
--
--
 ### Források
 
 - Pixabay
